@@ -37,7 +37,10 @@
     "workbox-strategies": "^5.1.4",
     "workbox-streams": "^5.1.4"
   },
+  "homepage": "https://athulshaji475.github.io/ionic-react-app",
   "scripts": {
+    "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --transformIgnorePatterns 'node_modules/(?!(@ionic/react|@ionic/react-router|@ionic/core|@stencil/core|ionicons)/)'",
@@ -57,5 +60,8 @@
     "Safari >=14",
     "iOS >=14"
   ],
-  "description": "An Ionic project"
+  "description": "An Ionic project",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
