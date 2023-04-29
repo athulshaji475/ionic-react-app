@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/ionic-react-app/static/css/main.eb7de4b9.css",
+    "main.js": "/ionic-react-app/static/js/main.805aca30.js",
+    "static/js/443.72762fe7.chunk.js": "/ionic-react-app/static/js/443.72762fe7.chunk.js",
+    "static/js/738.fd8ebe3b.chunk.js": "/ionic-react-app/static/js/738.fd8ebe3b.chunk.js",
+    "static/js/572.21666b6d.chunk.js": "/ionic-react-app/static/js/572.21666b6d.chunk.js",
+    "static/js/372.6f71f404.chunk.js": "/ionic-react-app/static/js/372.6f71f404.chunk.js",
+    "static/js/856.a048d061.chunk.js": "/ionic-react-app/static/js/856.a048d061.chunk.js",
+    "static/js/344.c4f5e8a7.chunk.js": "/ionic-react-app/static/js/344.c4f5e8a7.chunk.js",
+    "static/js/841.2e8fa294.chunk.js": "/ionic-react-app/static/js/841.2e8fa294.chunk.js",
+    "static/js/186.932eec6d.chunk.js": "/ionic-react-app/static/js/186.932eec6d.chunk.js",
+    "static/js/862.6e940e98.chunk.js": "/ionic-react-app/static/js/862.6e940e98.chunk.js",
+    "static/js/573.849f0d87.chunk.js": "/ionic-react-app/static/js/573.849f0d87.chunk.js",
+    "static/js/225.e203fedd.chunk.js": "/ionic-react-app/static/js/225.e203fedd.chunk.js",
+    "static/js/377.dea59219.chunk.js": "/ionic-react-app/static/js/377.dea59219.chunk.js",
+    "static/js/883.5e7a428f.chunk.js": "/ionic-react-app/static/js/883.5e7a428f.chunk.js",
+    "service-worker.js": "/ionic-react-app/service-worker.js",
+    "index.html": "/ionic-react-app/index.html",
+    "main.eb7de4b9.css.map": "/ionic-react-app/static/css/main.eb7de4b9.css.map",
+    "main.805aca30.js.map": "/ionic-react-app/static/js/main.805aca30.js.map",
+    "443.72762fe7.chunk.js.map": "/ionic-react-app/static/js/443.72762fe7.chunk.js.map",
+    "738.fd8ebe3b.chunk.js.map": "/ionic-react-app/static/js/738.fd8ebe3b.chunk.js.map",
+    "572.21666b6d.chunk.js.map": "/ionic-react-app/static/js/572.21666b6d.chunk.js.map",
+    "372.6f71f404.chunk.js.map": "/ionic-react-app/static/js/372.6f71f404.chunk.js.map",
+    "856.a048d061.chunk.js.map": "/ionic-react-app/static/js/856.a048d061.chunk.js.map",
+    "344.c4f5e8a7.chunk.js.map": "/ionic-react-app/static/js/344.c4f5e8a7.chunk.js.map",
+    "841.2e8fa294.chunk.js.map": "/ionic-react-app/static/js/841.2e8fa294.chunk.js.map",
+    "186.932eec6d.chunk.js.map": "/ionic-react-app/static/js/186.932eec6d.chunk.js.map",
+    "862.6e940e98.chunk.js.map": "/ionic-react-app/static/js/862.6e940e98.chunk.js.map",
+    "573.849f0d87.chunk.js.map": "/ionic-react-app/static/js/573.849f0d87.chunk.js.map",
+    "225.e203fedd.chunk.js.map": "/ionic-react-app/static/js/225.e203fedd.chunk.js.map",
+    "377.dea59219.chunk.js.map": "/ionic-react-app/static/js/377.dea59219.chunk.js.map",
+    "883.5e7a428f.chunk.js.map": "/ionic-react-app/static/js/883.5e7a428f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb7de4b9.css",
+    "static/js/main.805aca30.js"
+  ]
+}
